@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Academic Pages"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Academic Pages"
 description              : &description "personal description"
 repository               : "academicpages/academicpages.github.io"
 
