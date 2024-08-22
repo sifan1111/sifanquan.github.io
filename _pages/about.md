@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+
+
+
 Academic Background
 ======
 sun Yat-Sen University                                                                                                  Ph.D candidate
@@ -22,7 +25,9 @@ Environmental Policy and Governance: Investigating the impact of governmental po
 Media and Public Opinion: Exploring the role of traditional and new media in shaping public trust and satisfaction with governmental anti-corruption efforts.
 Comparative Political Analysis: Conducting comparative studies to analyze the effects of different governance strategies on public welfare and societal outcomes.
 
-======
+
+
+
 Self-Introduction
 ======
 I am a dedicated researcher with a strong focus on political science and environmental studies, particularly within the context of China. My academic journey has been shaped by a passion for understanding the complex relationships between governance, public policy, and societal outcomes. With a background in both qualitative and quantitative research methods, I am committed to contributing meaningful insights into how governmental actions, such as anti-corruption campaigns, influence various aspects of public life, including environmental sustainability and media consumption.
